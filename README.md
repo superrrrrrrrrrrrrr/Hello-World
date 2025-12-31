@@ -1,2 +1,2 @@
-# Hello-World
-A simple tutorial for hello-world repository
+# tableTennisAgent
+一个台球智能体，使其在模拟台球环境中，面对对手或特定目标配置时能够做出最优击球决策，实现尽可能高的胜率或得分表现。
